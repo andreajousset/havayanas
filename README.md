@@ -10,8 +10,7 @@ Pour réaliser ceci, j'ai utilisé les technologies suivantes:
 
 ![title](img/havayanas.jpg)
 
-![title](img/havayanas3.jpg)
-
 ![title](img/havayanas2.jpg)
 
+![title](img/havayanas3.jpg)
 
